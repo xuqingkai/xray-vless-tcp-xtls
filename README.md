@@ -1,5 +1,10 @@
 # xray
 ## 介绍
+
+### 准备
+- CentOS：yum install -y curl
+- Ubuntu/Debian：apt install -y curl或者apt-get update
+
 ### install.sh
 - xray安装脚本，适用于centos7+/debian9+/ubuntu16.04+
 - 调用xray官方安装脚本
